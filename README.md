@@ -36,8 +36,8 @@ I'm a passionate developer committed to building innovative solutions and contri
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NisanOfficial&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NisanOfficial&layout=compact&theme=radical" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api? NisanOfficial=NisanOfficial&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/? NisanOfficial=NisanOfficial&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
 
 ---
